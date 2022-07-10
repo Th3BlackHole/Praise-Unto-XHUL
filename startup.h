@@ -163,7 +163,7 @@ void startup(void){
     scanf_s("%s", buf);
 
     if(fchk(buf)){
-        //prun();
+        prun();
         /* Start Interpreting Here */
         intp(buf);
 

@@ -10,7 +10,7 @@
 #include <string.h>
 #include <stdio.h>
 
-bool constantseed = true;
+bool constantseed = false;
 
 #define MAX_STRING_SIZE 50 /* This makes it 'fun' to program */
 #define SUBMISSION_FROM_BROTHER 18 /* My brother is why this number is what it is */
