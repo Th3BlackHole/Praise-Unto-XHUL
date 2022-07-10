@@ -10,3 +10,7 @@ Some features may not work properly currently: Loops, If statements
 Esolang wiki: (To be created when I have time)
 
 Have fun Embrace the chaos, even if XHUL decided not to run your program
+
+
+NOTE: Most recent changes(changes to Random.h and startup.h) were done to disable the developer "tools." I removed the comment from prun() in startup() and set 
+constantseed in Random.h to false.
